@@ -2,7 +2,7 @@ SAM
 ===
 
 Software Automatic Mouth - Tiny Speech Synthesizer 
-
+(This is the StarCrystal Team fork)
 
 What is SAM?
 ============
@@ -248,8 +248,4 @@ source software license. However the software might be used under the
 Contact
 =======
 
-If you have questions don' t hesitate to ask me.
-If you discovered some new knowledge about the code please mail me.
-
-Sebastian Macke
-Email: sebastian@macke.de
+If you want more in the fork, feel free to email me at sc39isadeveloper@gmail.com
