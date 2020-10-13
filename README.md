@@ -2,7 +2,7 @@ SAM
 ===
 
 Software Automatic Mouth - Tiny Speech Synthesizer 
-(This is the StarCrystal Team fork)
+This is the StarCrystal Team fork.
 
 What is SAM?
 ============
@@ -23,11 +23,6 @@ Simply type "make" in your command prompt.
 In order to compile without SDL remove the SDL statements from the CFLAGS and LFLAGS variables in the file "Makefile".
 
 It should compile on every UNIX-like operating system. For Windows you need Cygwin or MinGW( + libsdl).
-
-Fork
-====
-
-Take a look at https://github.com/vidarh/SAM for a more refactored and cleaner version of the code.
 
 Usage
 =====
