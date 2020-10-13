@@ -1,7 +1,8 @@
 SAM
 ===
 
-Software Automatic Mouth - Tiny Speech Synthesizer 
+Software Automatic Mouth - Tiny Speech Synthesizer.
+
 This is the StarCrystal Team fork.
 
 What is SAM?
