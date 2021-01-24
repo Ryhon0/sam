@@ -3,7 +3,7 @@ SAM
 
 Software Automatic Mouth - Tiny Speech Synthesizer.
 
-This is the StarCrystal Team fork.
+This fork is now outdated anyways
 
 What is SAM?
 ============
